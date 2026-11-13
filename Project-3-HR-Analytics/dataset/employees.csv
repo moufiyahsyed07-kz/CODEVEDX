@@ -1,0 +1,16 @@
+employee_id,employee_name,age,gender,department,job_role,education,marital_status,hire_date,monthly_income,job_satisfaction,work_life_balance,years_at_company,overtime,performance_rating,attrition
+1,"Aarav Kumar",26,Male,IT,"Software Developer",Bachelors,Single,2024-01-15,45000.00,4,4,2,No,4,No
+2,"Meera Nair",29,Female,IT,"Data Analyst",Masters,Married,2022-06-10,58000.00,3,3,4,Yes,3,No
+3,"Rahul Das",24,Male,IT,"Support Engineer",Bachelors,Single,2025-02-01,32000.00,2,2,1,Yes,3,Yes
+4,"Priya Shah",31,Female,HR,"HR Executive",Masters,Married,2021-03-12,52000.00,4,4,5,No,4,No
+5,"Vikram Raj",27,Male,HR,Recruiter,Bachelors,Single,2023-08-20,38000.00,2,3,3,Yes,3,No
+6,"Divya Menon",25,Female,HR,"HR Assistant",Bachelors,Single,2025-05-05,30000.00,1,2,1,Yes,2,Yes
+7,"Karthik Iyer",34,Male,Finance,"Financial Analyst",Masters,Married,2020-07-18,65000.00,4,3,6,No,4,No
+8,"Sneha Patel",28,Female,Finance,Accountant,Bachelors,Married,2022-11-10,42000.00,3,4,4,No,3,No
+9,"Arjun Reddy",23,Male,Finance,"Junior Accountant",Bachelors,Single,2025-01-20,28000.00,2,2,1,Yes,2,Yes
+10,"Nila Thomas",30,Female,Sales,"Sales Executive",Bachelors,Single,2021-09-15,48000.00,3,3,5,Yes,3,No
+11,"Surya Prakash",26,Male,Sales,"Sales Associate",Bachelors,Single,2024-04-01,35000.00,1,2,2,Yes,2,Yes
+12,"Ananya Rao",32,Female,Sales,"Sales Manager",Masters,Married,2020-02-14,72000.00,4,4,6,No,5,No
+13,"Manoj Kumar",27,Male,Marketing,"Digital Marketer",Bachelors,Single,2023-03-10,40000.00,3,3,3,No,3,No
+14,"Aisha Rahman",24,Female,Marketing,"Content Specialist",Bachelors,Single,2025-06-01,31000.00,2,2,1,Yes,2,Yes
+15,"Rohan Mehta",35,Male,Marketing,"Marketing Manager",Masters,Married,2019-10-05,78000.00,4,4,7,No,5,No

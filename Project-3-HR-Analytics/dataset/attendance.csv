@@ -1,0 +1,16 @@
+attendance_id,employee_id,attendance_date,attendance_status,overtime_hours
+1,1,2026-11-01,Present,0.00
+2,2,2026-11-01,Present,1.50
+3,3,2026-11-01,Absent,0.00
+4,4,2026-11-01,Present,0.00
+5,5,2026-11-01,Present,2.00
+6,6,2026-11-01,Absent,0.00
+7,7,2026-11-01,Present,0.00
+8,8,2026-11-01,Present,0.50
+9,9,2026-11-01,Absent,0.00
+10,10,2026-11-01,Present,1.00
+11,11,2026-11-01,Present,2.50
+12,12,2026-11-01,Present,0.00
+13,13,2026-11-01,Present,0.00
+14,14,2026-11-01,Absent,0.00
+15,15,2026-11-01,Present,0.00
