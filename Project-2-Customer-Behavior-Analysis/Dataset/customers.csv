@@ -1,0 +1,13 @@
+customer_id,customer_name,email,city,signup_date,last_purchase_date
+1,"Aarav Kumar",aarav@gmail.com,Chennai,2025-01-10,2026-10-15
+2,"Meera Nair",meera@gmail.com,Coimbatore,2025-02-12,2026-10-20
+3,"Ananya Rao",ananya@gmail.com,Madurai,2025-03-05,2026-08-10
+4,"Rahul Das",rahul@gmail.com,Chennai,2025-04-18,2026-05-12
+5,"Priya Shah",priya@gmail.com,Salem,2025-05-20,2026-10-25
+6,"Vikram Raj",vikram@gmail.com,Trichy,2025-06-15,2026-03-01
+7,"Divya Menon",divya@gmail.com,Chennai,2025-07-22,2026-09-18
+8,"Karthik Iyer",karthik@gmail.com,Erode,2025-08-11,2026-01-15
+9,"Sneha Patel",sneha@gmail.com,Coimbatore,2025-09-09,2026-10-28
+10,"Arjun Reddy",arjun@gmail.com,Madurai,2025-10-01,2026-02-10
+11,"Nila Thomas",nila@gmail.com,Chennai,2025-11-14,2026-10-05
+12,"Surya Prakash",surya@gmail.com,Salem,2025-12-01,2026-04-20
