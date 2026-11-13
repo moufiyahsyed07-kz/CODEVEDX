@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock_quantity
+1,"Wireless Mouse",Electronics,599.00,120
+2,"Mechanical Keyboard",Electronics,2499.00,45
+3,"Bluetooth Headphones",Electronics,1799.00,60
+4,"Cotton T-Shirt",Fashion,499.00,150
+5,"Running Shoes",Fashion,1999.00,75
+6,"Office Chair",Furniture,5499.00,25
+7,"Study Table",Furniture,3999.00,30
+8,"Water Bottle",Accessories,299.00,200
+9,Backpack,Accessories,899.00,90
+10,"Smart Watch",Electronics,3299.00,40
